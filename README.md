@@ -56,12 +56,6 @@ Visit `http://localhost:3000`
 
 - **Groq**: https://console.groq.com
 - **Google Gemini**: https://makersuite.google.com
-- **Serper**: https://serper.dev (free tier)
 
 ## 🚢 Deploy
-
 See `DEPLOY.md` for step-by-step deployment instructions.
-
-## 📝 License
-
-MIT
